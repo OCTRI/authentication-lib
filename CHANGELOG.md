@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enable Dependabot updates to Maven and GitHub Actions dependencies.
 - Add POM metadata required for publishing to Maven Central. (CIS-3192)
 - Enable building Javadoc and source jars and fix Javadoc issues. (CIS-3193)
+- Upgrade to webjars-locator 0.52.
+- Upgrade to jQuery 3.7.1.
+- Upgrade to jQuery UI 1.14.1.
+- Upgrade to Font Awesome 6.7.2.
 
 ## [2.1.2] - 2024-12-20
 
